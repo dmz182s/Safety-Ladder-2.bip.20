@@ -1,0 +1,10 @@
+{
+    "horizontalFrames": 20,
+    "horizontalStartingIndex": 10,
+    "horizontalWrap": true,
+    "name": "Safety Ladder-2.bip.20",
+    "type": "KeyShotXR",
+    "verticalFrames": 20,
+    "verticalStartingIndex": 12,
+    "verticalWrap": false
+}
